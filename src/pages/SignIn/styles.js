@@ -24,11 +24,11 @@ export const FormInput = styled(Input)`
 `;
 
 export const SubmitButton = styled(Button)`
-  margin-bottom: 5px;
+  margin-top: 5px;
 `;
 
 export const SignLink = styled.TouchableOpacity`
-  margin-bottom: 20px;
+  margin-top: 20px;
 `;
 
 export const SignLinkText = styled.Text`
